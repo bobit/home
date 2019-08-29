@@ -15,16 +15,16 @@
 
 ## projects
 
-[aspring](/aspring/index.md)
+[aspring](/aspring/index)
 
 
 ## demo
 
-[demo-rocketmq](/demo-rocketmq/index.md)
+[demo-rocketmq](/demo-rocketmq/index)
 
-[demo-rabbitmq](/demo-rabbitmq/index.md)
+[demo-rabbitmq](/demo-rabbitmq/index)
 
 ## private
 
-[private-documents](/private-documents/index.md)
+[private-documents](/private-documents/index)
 
