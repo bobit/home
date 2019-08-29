@@ -15,10 +15,15 @@
 
 ## projects
 
-[aspring](https://github.com/bobit/project/blob/master/docs/index.md)
-
+[aspring](https://github.com/bobit/aspring/blob/master/docs/index.md)
 
 
 ## demo
 
-[demo](https://github.com/bobit/demo/blob/master/docs/index.md)
+[demo-rocketmq](https://github.com/bobit/demo-rocketmq/blob/master/docs/index.md)
+[demo-rabbitmq](https://github.com/bobit/demo-rabbitmq/blob/master/docs/index.md)
+
+## private
+
+[private-documents](https://github.com/bobit/private-documents/blob/master/docs/index.md)
+
